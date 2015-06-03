@@ -54,3 +54,7 @@ http://zespia.tw/blog/2012/02/04/lab-html5-audio/
 2. express upload
 3 https://github.com/nwjs/nw.js/wiki/Control-camera-and-microphone-with-getusermedia-api
 
+
+# 注意 
+
+如果台式机没有插入麦克风 会无法录音 = =
