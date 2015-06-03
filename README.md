@@ -10,7 +10,12 @@
 
 # usage
 
-./nwjs.app/Contents/MacOS/nwjs app.nw
+```
+cd record_game
+
+./nwjs.app/Contents/MacOS/nwjs .
+```
+
 
 
 # ffmpeg.so
@@ -47,5 +52,5 @@ http://zespia.tw/blog/2012/02/04/lab-html5-audio/
 # TODO
 1. UI
 2. express upload
-
+3 https://github.com/nwjs/nw.js/wiki/Control-camera-and-microphone-with-getusermedia-api
 
